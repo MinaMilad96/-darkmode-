@@ -1,4 +1,4 @@
-
+let button = document.querySelector(".button");
 button.onclick = function(){
     "use strict";
     body.classList.toggle('dark');
